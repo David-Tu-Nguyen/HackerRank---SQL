@@ -59,7 +59,7 @@
 11. [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs)
 12. [Interviews](https://www.hackerrank.com/challenges/interviews)
 13. [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql)
-## Phần V: Extensions Lesson
+## Phần V: Alternative Queries 
 1. [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1)
 2. [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2)
 3. [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers)
