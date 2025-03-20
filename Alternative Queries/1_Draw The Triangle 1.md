@@ -24,7 +24,6 @@ Write a query to print the pattern P(20).
 		FROM pattern;
     
 ## Output:
-Your Output (stdout)
 
     * * * * * * * * * * * * * * * * * * * * 
     * * * * * * * * * * * * * * * * * * * 
